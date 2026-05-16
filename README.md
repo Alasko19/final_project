@@ -67,7 +67,7 @@ Project structure
     └── config.py
 Installation:
 
-git clone <
+git clone <https://github.com/Alasko19/final_project.git>
 
 Move into the project folder:
 cd python_final_project
