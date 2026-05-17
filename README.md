@@ -90,7 +90,7 @@ API Setup for Weather App
 	3.	Add your API key inside config.py
 
 Python:
-. API_KEY = "your_api_key_here"
+. API_KEY = "eb621c268f186a070370cf404551faaf"
   
 Learning Outcome
 
